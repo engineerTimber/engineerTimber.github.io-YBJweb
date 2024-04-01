@@ -262,6 +262,10 @@ audio{
         font-size: 12px;
     }
 
+    .nav > li{
+        padding: 8px 0;
+    }
+
     #music, #code, #life, #aboutme{
         display: none;
     }

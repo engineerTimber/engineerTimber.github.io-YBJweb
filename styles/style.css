@@ -259,7 +259,7 @@ audio{
 @media(max-width: 500px){
     li > a{
         padding:10px 0;
-        font-size: 15px;
+        font-size: 12px;
     }
 
     #music, #code, #life, #aboutme{
